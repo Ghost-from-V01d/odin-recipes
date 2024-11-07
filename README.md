@@ -11,3 +11,4 @@ This very simple project from TOP curriculum shows skills of basic understanding
  - Pizza photo [igorovsyannykov](https://pixabay.com/users/igorovsyannykov-6222956/)
  - Spaghetti photo [catceeq](https://pixabay.com/users/catceeq-14180496/)
  - Salad photo [joannawielgosz](https://pixabay.com/users/joannawielgosz-168212/)
+ - Recipes [ChatGPT](https://chatgpt.com/)
