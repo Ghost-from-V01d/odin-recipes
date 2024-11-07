@@ -4,7 +4,6 @@ This very simple project from TOP curriculum shows skills of basic understanding
  - operating on files
  - inserting images and using alt attribute for website accessability 
  - creating ordered and unordered lists
-
  - additionally usage of basic Git commands
 
 ## Big shout out to:
